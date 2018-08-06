@@ -1,2 +1,6 @@
 test
+<<<<<<< HEAD
 master branch
+=======
+branch1
+>>>>>>> test1
